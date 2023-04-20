@@ -1,0 +1,5 @@
+C:\Users\tokhrulah\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.csproj.AssemblyReference.cache
+C:\Users\tokhrulah\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokhrulah\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.AssemblyInfoInputs.cache
+C:\Users\tokhrulah\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.AssemblyInfo.cs
+C:\Users\tokhrulah\source\repos\MiniApp\MiniApp\obj\Debug\net6.0\MiniApp.csproj.CoreCompileInputs.cache

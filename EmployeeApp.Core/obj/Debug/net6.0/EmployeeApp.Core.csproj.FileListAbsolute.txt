@@ -1,0 +1,12 @@
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\bin\Debug\net6.0\EmployeeApp.Core.deps.json
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\bin\Debug\net6.0\EmployeeApp.Core.dll
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\bin\Debug\net6.0\EmployeeApp.Core.pdb
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.csproj.AssemblyReference.cache
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.AssemblyInfoInputs.cache
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.AssemblyInfo.cs
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.dll
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\obj\Debug\net6.0\refint\EmployeeApp.Core.dll
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.pdb
+C:\Users\tokhrulah\source\repos\MiniApp\EmployeeApp.Core\obj\Debug\net6.0\ref\EmployeeApp.Core.dll
