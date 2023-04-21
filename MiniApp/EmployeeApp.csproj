@@ -9,10 +9,15 @@
 
   <ItemGroup>
     <Folder Include="Services\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="Services\Implementation\" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\EmployeeApp.Data\EmployeeApp.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Services\Interfaces\" />
+  </ItemGroup>
 </Project>

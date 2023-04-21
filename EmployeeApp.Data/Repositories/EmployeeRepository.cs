@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using EmployeeApp.Core.Models;
+
 namespace EmployeeApp.Data.Repositories
 {
-    internal class EmployeeRepository
+    public class EmployeeRepository : Repository<Employee>
     {
+
     }
 }
